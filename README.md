@@ -3,12 +3,12 @@
   PLEASE USE THIS THIS AI FOR GAINIING EDUCATION 
   
 
-
- pip install openai
- pip install python-dotenv
- pip install SpeechRecognition
- pip install pyttsx3
-
+<h6>
+ # pip install openai
+ # pip install python-dotenv
+ # pip install SpeechRecognition
+ # pip install pyttsx3
+</h6>
 </p>
 
 api key = 
