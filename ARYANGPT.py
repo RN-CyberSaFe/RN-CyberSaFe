@@ -6,7 +6,7 @@ from dotenv import load_dotenv
 
 # Load the API key from the .env file
 load_dotenv()
-openai.api_key = os.getenv('OPENAI_API_KEY')
+openai.api_key = os.getenv('sk-R93PCWBgn2usx_2fQpR38RsmqXRgcyr5lTCBZ0cFr5T3BlbkFJBiqNoNII9-zcMiTbxoBLotbMdHhNFFD4mnoSfj_UwA')
 
 # Initialize the text-to-speech engine
 engine = pyttsx3.init()
