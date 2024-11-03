@@ -1,6 +1,6 @@
 # Hi... I'm Aryan  <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" />
 
-A **Full Stack Developer**  and an advocate for building **responsive**, **accessible** and **inclusive** digital products and experiences for the web based in Nairobi, Kenya. 
+A **Full Stack Developer**  and an advocate for building **responsive**, **accessible** and **inclusive** digital products and experiences for the web based in kathmandu,Nepal - 
 - Open to project collaborations
 - You can reach me through: <a href="aryanjoshi521@gmail.com" title="Portfolio"><img alt="Email"  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" align="center"/></a> <a href="" title="Instagram"><img alt="Instagram"  src="https://img.shields.io/badge/Instagram-25D365?style=for-the-badge&logo=instagram&logoColor=pink" height="30" align="center"/></a>
 - **NOTE** : You can **fork** and **contribute** to any of the projects <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" align="center" />
