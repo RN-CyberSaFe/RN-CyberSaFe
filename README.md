@@ -14,4 +14,11 @@ A **Full Stack Developer**  and an advocate for building **responsive**, **acces
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
-
+<div align="center">
+<a href="https://github.com/lenardjombo">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lenardjombo&theme=aura" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lenardjombo&theme=aura" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lenardjombo&theme=aura" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lenardjombo&theme=aura" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lenardjombo&theme=aura" height="180em" />
+</div>
